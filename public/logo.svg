@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="r"><rect width="64" height="64" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="64" height="64" rx="16" fill="#D97742"/>
+    <path d="M0 0h64v26c-18 7-42 5-64-6V0z" fill="#FFFFFF" opacity="0.14"/>
+  </g>
+  <!-- mini bot glyph: antenna + head + screen face + eyes -->
+  <line x1="32" y1="12" x2="32" y2="17" stroke="#100F0D" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="32" cy="10" r="3" fill="#100F0D"/>
+  <rect x="15" y="17" width="34" height="34" rx="10" fill="#100F0D"/>
+  <rect x="21" y="25" width="22" height="18" rx="6" fill="#D97742"/>
+  <circle cx="27.5" cy="32.5" r="2.6" fill="#100F0D"/>
+  <circle cx="36.5" cy="32.5" r="2.6" fill="#100F0D"/>
+  <path d="M28 38.5 Q32 41.5 36 38.5" fill="none" stroke="#100F0D" stroke-width="2" stroke-linecap="round"/>
+</svg>
